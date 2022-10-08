@@ -39,10 +39,23 @@
 <br>
 
 <!-- Languages Used -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail60&show_icons=true&locale=en&layout=compact&theme=aura" alt="sohail60" width="350" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail60&show_icons=true&locale=en&layout=compact&theme=aura" alt="sohail60" width="350" />
+</p>
 
 <!-- Github stats -->
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sohail60&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=sohail60&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
+</p>
 
 <!-- Streak -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail60&theme=algolia" alt="shikhar360" width="350" /></p>
+<p align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail60&theme=algolia" alt="shikhar360" width="350" />
+</p>
+
+</br>
+
+<!-- Activity -->
+<p align="center" >
+<img width="800px" align="center" src="https://activity-graph.herokuapp.com/graph?username=sohail60&theme=redical">
+</p>
