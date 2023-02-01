@@ -10,7 +10,7 @@
 - 🔐 Interested in **Cyber Security**
 - 🌎 **Open Source** Geek
 - 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/)
-- 🔥 My [Leetcode](https://www.leetcode.com/sohail10) Profile
+- 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
 - 📫 Reach me at **sohailatwork10@gmail.com**
 
 ## Connect with me
