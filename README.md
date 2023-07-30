@@ -6,37 +6,39 @@
 
 <!-- Intro -->
 - 👨‍💻 Proficient in **Java**
-- ⚡ I’m currently learning **REACT**
-- 🔐 Interested in **Cyber Security**
+- ⚡ Full Stack **Web Developer**
+<!--- 🔐 Interested in **Cyber Security** -->
 - 🌎 **Open Source** Geek
-- 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/)
+<!--- 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/) -->
 - 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
 - 📫 Reach me at **sohailatwork10@gmail.com**
 
-## Connect with me
-  <a href="https://twitter.com/sohail_infinity">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://linkedin.com/in/md-sohail-ansari-786123202/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://instagram.com/sohail_infinity">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+## Tech Stack 
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,firebase,bash,c,python,git,github,linux,vscode&perline=9)](https://skillicons.dev)
 <br>
 
-## Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=java,git,github,linux,html,css,js,nodejs,express,mongodb,firebase,heroku,bash,c,python,vscode,discord&perline=9)](https://skillicons.dev)
-<br>
- 
-<!-- IDE -->
 ## IDE
 <span>
 <img src = "https://img.shields.io/badge/-IntelliJ%20Idea-grey?style=for-the-badge&logo=intellij%20idea">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 <br>
+
+## Connect with me
+  <a href="https://twitter.com/sohail_infinity">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/md-sohail-ansari-b51201278/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://instagram.com/sohail_infinity">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
 <br>
+<br>
+ 
+<!-- IDE -->
+
 
 <!-- Languages Used -->
 <p align="left">
